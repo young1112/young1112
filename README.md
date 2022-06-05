@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @young1112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=WELCOME+TO+MY+GITHUB)](https://git.io/typing-svg)
 
-<!---
-young1112/young1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ ## Support Me On
+
+</br>
+
+## WhatsApp
+
+<b>• [WhatsApp](https://api.whatsapp.com/send?phone=+2347064638008&text=Assalamualaikum)</b>
+
+<br>
+
+
+
+
+
+
+
